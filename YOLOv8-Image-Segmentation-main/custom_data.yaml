@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/YOLOv8/dataset/images_and_labels
+train: /content/drive/MyDrive/YOLOv8/dataset/images_and_labels/images/train
+val: /content/drive/MyDrive/YOLOv8/dataset/images_and_labels/images/val
+#test: custom_dataset/test/images
+
+nc: 1
+names: ['Tumor']
